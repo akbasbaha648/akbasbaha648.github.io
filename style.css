@@ -1,0 +1,40 @@
+.hotbar{
+    background-color: darkblue;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    padding: 5px;
+    margin: 4px;
+}
+
+.font{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box{
+    background-color: darkblue;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+    margin: 4px;
+}
+
+.horizontal{
+    display: flex;
+}
+
+.hotbarlink{
+    text-decoration: none;
+    color: white;
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+}
+
+.center{
+    text-align: center;
+}
+
+.end{
+    text-align: end;
+}
