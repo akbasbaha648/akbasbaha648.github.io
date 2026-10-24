@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+       <loc>https://akbasbaha648.github.io/</loc>
+       <lastmod>2026-10-24T06:44:38+00:00</lastmod>
+       <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>https://akbasbaha648.github.io/index.html</loc>
+       <lastmod>2026-10-24T06:44:38+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://akbasbaha648.github.io/about.html</loc>
+       <lastmod>2026-10-24T06:44:38+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://akbasbaha648.github.io/games.html</loc>
+       <lastmod>2026-10-24T06:44:38+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+</urlset>
